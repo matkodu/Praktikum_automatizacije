@@ -1,0 +1,10 @@
+TTr=24.7 ms
+
+TAs-I=5 ms
+
+TOB1=25 ms
+
+
+
+
+5 ms + 24.7 ms + 25 ms + 25 ms +24.7 ms + 5 ms = 109.4 ms
