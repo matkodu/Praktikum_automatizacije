@@ -1,3 +1,3 @@
 # Praktikum_automatizacije
 
-Samostalno odrađene laboratorijske vježbe i seminara tijekom pohađanja kolegija.
+Samostalno odrađene laboratorijske vježbe i seminari tijekom pohađanja kolegija.
